@@ -12,5 +12,7 @@
 * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/{キャラID}_01.png
 * 例
  * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3030129000_01.png // スタン
+ * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3030162000_01.png // 蘭子
  * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3040083000_01.png // アリーザ
  * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3710018000_01.png // 特別スキン(アンチラ)
+ * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3710026000_01.png // 特別スキン(パー様)
