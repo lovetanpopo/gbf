@@ -7,6 +7,10 @@
 * gbf.game-a5.mbga.jp/assets/sound/voice/{キャラID}_win1.mp3
 * gbf.game-a5.mbga.jp/assets/sound/voice/{キャラID}_ability_them1.mp3
 * gbf.game-a5.mbga.jp/assets/sound/voice/{キャラID}_Valentine1.mp3
+* 誕生日
+ * game-a5.granbluefantasy.jp/assets/sound/voice/3030049000_birthday1b_1.mp3
+ * game-a5.granbluefantasy.jp/assets/sound/voice/3030049000_birthday1b_2.mp3
+ * game-a5.granbluefantasy.jp/assets/sound/voice/3030049000_birthday2.mp3
 
 ##### 拡大画像
 * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/{キャラID}_01.png
