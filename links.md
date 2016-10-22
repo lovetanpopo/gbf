@@ -19,6 +19,8 @@
   * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday2.mp3
   * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday3.mp3
   * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday4.mp3
+ * ソシエ
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040044000_birthday3b.mp3 (3つ目)
 
 ##### 拡大画像
 * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/{キャラID}_01.png
