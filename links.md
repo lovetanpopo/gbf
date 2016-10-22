@@ -14,6 +14,11 @@
  * game-a5.granbluefantasy.jp/assets/sound/voice/3040039000_birthday3_1.mp3
  * game-a5.granbluefantasy.jp/assets/sound/voice/3040039000_birthday3_2.mp3
  * game-a5.granbluefantasy.jp/assets/sound/voice/3040039000_birthday3_3.mp3
+ * カタリナ
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday1.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday2.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday3.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday4.mp3
 
 ##### 拡大画像
 * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/{キャラID}_01.png
