@@ -21,6 +21,34 @@
   * game-a5.granbluefantasy.jp/assets/sound/voice/3030005000_birthday4.mp3
  * ソシエ
   * game-a5.granbluefantasy.jp/assets/sound/voice/3040044000_birthday3b.mp3 (3つ目)
+* ハロウィーン
+ * カリオストロ
+  * パターン１
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040009000_Halloween2a.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040009000_Halloween2b.mp3
+  * パターン２
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040009000_s2_halloween2.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040009000_s2_halloween3.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040009000_s2_halloween4.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040009000_s2_halloween5.mp3
+ * シャルロッテ
+  * パターン１
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040010000_Halloween2.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3040010000_Halloween3.mp3
+  * パターン２
+  * カリオストと同じ
+ * ジャンヌ・ダルク
+  * パターン１
+  * カリオストロと同じ
+  * パターン２
+  * カリオストロと同じ（ただし６まである）
+ * アルドラ
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3990152000_Halloween3.mp3
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3990152000_Halloween4.mp3
+ * 祭司
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3990396000_s1_halloween10.mp3
+  * …
+  * game-a5.granbluefantasy.jp/assets/sound/voice/3990396000_s1_halloween3.mp3
 
 ##### 拡大画像
 * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/{キャラID}_01.png
