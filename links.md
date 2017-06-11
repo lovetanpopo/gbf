@@ -58,3 +58,14 @@
  * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3040083000_01.png // アリーザ
  * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3710018000_01.png // 特別スキン(アンチラ)
  * gbf.game-a.mbga.jp/assets/img/sp/assets/npc/zoom/3710026000_01.png // 特別スキン(パー様)
+
+##### ルリア
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup1_1.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup1_2.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup1_3.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup2_1.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup2_2.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup2_3.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup3_1.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup3_2.png
+* game-a.granbluefantasy.jp/assets/img/sp/archive/lyria/popup3_3.png
